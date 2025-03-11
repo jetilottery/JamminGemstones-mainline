@@ -1,0 +1,112 @@
+﻿{
+    "version": "11-9-2020 2:01PM Jammin Gemstones Default SM",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nein",
+        "confirm": "Mit Ton?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% und {@maxRTP}%",
+        "paybackTitle": "Erwartete Rückzahlung",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}."
+    },
+    "title": "Gemstone Mania",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Spielanleitung",
+            "payTable": "Was kann man gewinnen?",
+            "price": "Einsatz",
+            "stake": "Einsatz",
+            "balance": "Saldo",
+            "prizeDivision": "Preis-Aufteilung",
+            "prizeValue": "Preis-Wert",
+            "approximatePrize": "Ungefähr verbleibende Preise",
+            "oddsPerPlay": "Chancen pro Spiel",
+            "overAllOdds": "Die Chance, bei einem Spiel einen Preis zu gewinnen, beträgt insgesamt 1 zu {oddNum}.",
+            "availablePrices": "Verfügbare Preispunkte: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Spielanleitung",
+            "payTable": "Was kann man gewinnen?",
+            "price": "Einsatz",
+            "stake": "Einsatz",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "Ein",
+            "off": "Aus",
+            "sound": "Ton"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fehler:29000\n\nEs ist ein interner Fehler aufgetreten.\nBEENDEN/WEITER und neu starten.",
+        "lostConnection": "Verbindung verloren!"
+    },
+    "Game":
+    {
+        "warpBonus_headerL": "Decken Sie ein {@instantWinAnim_Idle@} auf,\n um einen Sofortgewinn zu erhalten!",
+        "warpBonus_headerP": "Decken Sie ein {@instantWinAnim_Idle@} auf,\n um einen Sofortgewinn zu erhalten!",
+        "WBTriggered": "Es gibt keine weiteren Edelsteingruppen mehr:\n‚Gold‘-Extra-Spiel ausgelöst.",
+        "ABTriggered": "Es gibt keine weiteren Edelsteingruppen mehr:\n‚Silber‘-Extra-Spiel ausgelöst.",
+        "NMChain": "Es gibt keine weiteren Edelsteingruppen mehr.",
+
+        "demo": "DEMO ",
+        "button_buy": "KAUFEN",
+        "button_try": "DEMO",
+        "button_play": "SPIELEN",
+        "button_continue": "WEITER",
+        "button_move2moneyGame": "KAUFEN",
+        "button_autoPlay": "ALLES AUFDECKEN",
+        "button_playAgain": "KAUFEN",
+        "button_MTMPlayAgain": "DEMO",
+        "button_payTable": "LEGENDE",
+        "wager": "EINSATZ",
+        "meter_wager": "EINSATZ",
+        "balance": "SALDO",
+        "wins": "GEWINN",
+        "wins_demo": "DEMO",
+        "message_nonWin": "SCHADE,\nKEIN GEWINN",
+        "message_buyWin": "GLÜCKWUNSCH!\nSIE GEWINNEN",
+        "message_tryWin": "EIN DEMOSPIEL BERECHTIGT\nZU KEINERLEI GEWINN.",
+
+        "message_buyWin_bg": "GLÜCKWUNSCH!\nSIE GEWINNEN",
+        "message_tryWin_bg": "EIN DEMOSPIEL BERECHTIGT\nZU KEINERLEI GEWINN.",
+        "message_anonymousTryWin": "EIN DEMOSPIEL BERECHTIGT\nZU KEINERLEI GEWINN.",
+        "message_close": "OK",
+        "button_exit": "ABBRECHEN",
+        "session_timeout_warning_exit_button": "ABBRECHEN",
+        "error_button_exit": "ABBRECHEN",
+        "warning_button_continue": "WEITER",
+        "warning_button_exitGame": "WEITER",
+        "warning_title": "WARNING",
+        "error_title": "FEHLER",
+        "win_up_to": "GEWINNEN SIE BIS ZU",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SPIELANLEITUNG",
+        "tutorial_00_landscape": "Sammeln Sie Gruppen von mindestens 3 angrenzenden Edelsteinen\nderselben Farbe, unabhängig davon, ob sie in einen Ring (Gold oder Silber)\ngefasst sind oder nicht, um den entsprechenden, in der Legende angegebenen\nBetrag zu gewinnen. Sie gelangen zu den Extra-Spiele, indem Sie Gold-oder Silberringe sammeln.",
+        "tutorial_01_landscape": "Sammeln Sie 4 Goldringe, um zum Extra-Spiel ‚Gold‘ zu gelangen.\nSammeln Sie in diesem Extra-Spiel zusätzliche Edelsteine oder\ndecken Sie ein {@IW_tutorial@} auf, um einen Sofortgewinn zu erhalten.",
+        "tutorial_02_landscape": "Sammeln Sie 4 Silberringe, um zum Extra-Spiel ‚Silber‘ zu gelangen.\nDieses Extra-Spiel wird direkt im Spielfeld des Hauptspiels gespielt, in dem die Edelsteine\nneu positioniert oder zufällig gesammelt werden können, um neue Gewinnchancen zu bieten.",
+        "tutorial_00_portrait": "Sammeln Sie Gruppen von mindestens\n3 angrenzenden Edelsteinen derselben Farbe,\nunabhängig davon, ob sie in einen\nRing (Gold oder Silber) gefasst sind oder nicht.\nSie gelangen zu den Extra-Spiel,\nindem Sie Gold-oder Silberringe sammeln.",
+        "tutorial_01_portrait": "Sammeln Sie 4 Goldringe, um zum\nExtra-Spiel ‚Gold‘ zu gelangen.\nSammeln Sie in diesem Extra-Spiel\nzusätzliche Edelsteine oder decken\nSie ein {@IW_tutorial@} auf, um\neinen Sofortgewinn zu erhalten.",
+        "tutorial_02_portrait": "Sammeln Sie 4 Silberringe, um\nzum Extra-Spiel ‚Silber‘ zu gelangen.\nDie Edelsteine können dort neu positioniert\noder zufällig gesammelt werden, um\nneue Gewinnchancen zu bieten.",
+        "your_number": "IHRE SYMBOLE",
+        "luck_number": "GEWINNSYMBOLE",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Preis-Stufe",
+        "prizeDescription": "Beschreibung",
+        "paytableWager": "Einsatz: ",
+        "prizeValue": "Preis-Wert",
+        "descPreTextLevel1": "Jede Kombination aus 16 oder mehr ",
+        "descPreTextLevel2": "Jede Kombination aus 13 bis 15 ",
+        "descPreTextLevel3": "Jede Kombination aus 10 bis 12 "
+    }
+}

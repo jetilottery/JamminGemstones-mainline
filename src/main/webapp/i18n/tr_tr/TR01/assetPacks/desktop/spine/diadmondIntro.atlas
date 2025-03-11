@@ -1,0 +1,27 @@
+
+diadmondIntro.png
+size: 619,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diadmondIntro
+  rotate: true
+  xy: 2, 2
+  size: 562, 472
+  orig: 577, 483
+  offset: 10, 6
+  index: -1
+light
+  rotate: false
+  xy: 476, 84
+  size: 141, 480
+  orig: 147, 482
+  offset: 4, 1
+  index: -1
+sparkle
+  rotate: false
+  xy: 476, 3
+  size: 76, 79
+  orig: 85, 87
+  offset: 5, 3
+  index: -1

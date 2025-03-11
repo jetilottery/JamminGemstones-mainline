@@ -1,0 +1,27 @@
+
+bonusAntiAnim.png
+size: 668,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonusAntiGlow
+  rotate: true
+  xy: 2, 312
+  size: 200, 664
+  orig: 200, 664
+  offset: 0, 0
+  index: -1
+bonusAntiGlow1
+  rotate: true
+  xy: 2, 2
+  size: 170, 466
+  orig: 200, 664
+  offset: 15, 99
+  index: -1
+bonusAntiPlaque
+  rotate: true
+  xy: 2, 174
+  size: 136, 600
+  orig: 200, 664
+  offset: 32, 32
+  index: -1

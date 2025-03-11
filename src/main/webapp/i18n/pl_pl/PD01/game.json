@@ -1,0 +1,111 @@
+﻿{
+    "version": "11-9-2020 2:01PM Jammin Gemstones Default SM",
+    "audioLoader":
+    {
+        "yes": "Tak",
+        "no": "Nie",
+        "confirm": "Czy włączyć dźwięk?"
+    },
+    "Paytable": {
+        "RTPvalue": "wynosi {@minRTP}%",
+        "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}."
+    },
+    "title": "Błyskotki",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Zasady gry",
+            "payTable": "Tabela wypłat",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo",
+            "prizeDivision": "Stopień wygranej",
+			"prizeValue": "Wartość wygranej",
+			"approximatePrize": "Pozostało do wygrania",
+			"oddsPerPlay": "Szansa na wygraną",
+            "overAllOdds": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {oddNum}.",
+            "availablePrices": "Dostępne punkty nagrody: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Zasady gry",
+            "payTable": "Tabela wygranych",
+            "price": "Cena",
+            "stake": "Stawka",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "Wł.",
+            "off": "Wył.",
+            "sound": "Dźwięk"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Błąd: 29000\n\n Wystąpił błąd wewnętrzny.\n WYJDŹ i uruchom ponownie grę.",
+        "lostConnection": "Utracono połączenie!"
+    },
+    "Game":
+    {
+        "warpBonus_headerL": "Odkryj {@instantWinAnim_Idle@}, aby zdobyć\nnatychmiastową wygraną!",
+        "warpBonus_headerP": "Odkryj {@instantWinAnim_Idle@}, aby zdobyć natychmiastową wygraną!",
+        "WBTriggered": "Brak pozostałych układów – uruchomiono bonus Gonitwa Klejnotów",
+        "ABTriggered": "Brak pozostałych układów – uruchomiono bonus Przetasowanie",
+        "NMChain": "Brak pozostałych układów",
+
+        "demo": "DEMO ",
+        "button_buy": "PŁACĘ",
+        "button_try": "DEMO",
+        "button_play": "ZAGRAJ",
+        "button_continue": "KONTYNUUJ",
+        "button_move2moneyGame": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay": "AUTO",
+        "button_playAgain": "GRAJ PONOWNIE",
+        "button_MTMPlayAgain": "SPRÓBUJ PONOWNIE",
+        "button_payTable": "TABELA WYGRANYCH",
+        "wager": "OPŁATA ZA LOS",
+        "meter_wager": "OPŁATA ZA LOS",
+        "balance": "SALDO",
+        "wins": "WYGRANA",
+        "wins_demo": "WYGRANA DEMO",
+        "message_nonWin": "POWODZENIA NASTĘPNYM\nRAZEM",
+        "message_buyWin": "GRATULACJE!\nTWOJA WYGRANA TO:",
+        "message_tryWin": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ",
+
+        "message_buyWin_bg": "GRATULACJE!\nTWOJA WYGRANA TO:",
+        "message_tryWin_bg": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ",
+        "message_anonymousTryWin": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ",
+        "message_close": "OK",
+        "button_exit": "WYJDŹ",
+        "session_timeout_warning_exit_button": "WYJDŹ",
+        "error_button_exit": "WYJDŹ",
+        "warning_button_continue": "KONTYNUUJ",
+        "warning_button_exitGame": "WYJDŹ",
+        "warning_title": "OSTRZEŻENIE",
+        "error_title": "BŁĄD",
+        "win_up_to": "WYGRAJ DO",
+        "win_up_to_mark": "!",
+        "tutorial_title": "ZASADY GRY",
+        "tutorial_00_landscape": "Układaj pola co najmniej 3 sąsiadujących klejnotów.\nPo ułożeniu klejnoty znikają z planszy gry,\na nowe spadają z góry. Zbieraj złote i srebrne\npierścienie, aby uruchomić grę bonusową.",
+        "tutorial_01_landscape": "Zbierz 4 złote pierścienie, aby uruchomić bonus Gonitwa Klejnotów.\n Zbierz dodatkowe klejnoty lub odkryj {@IW_tutorial@},\naby zdobyć natychmiastową wygraną.",
+        "tutorial_02_landscape": "Zbierz 4 srebrne pierścienie, aby uruchomić bonus Przetasowanie.\nKlejnoty zostaną przetasowane w\ncelu zebrania nowych układów.",
+        "tutorial_00_portrait": "Układaj pola co najmniej\n3 sąsiadujących klejnotów. Po ułożeniu\nklejnoty znikają z planszy gry,\na nowe spadają z góry. Zbieraj złote i srebrne\npierścienie, aby uruchomić grę bonusową.",
+        "tutorial_01_portrait": "Zbierz 4 złote pierścienie,\naby uruchomić bonus Gonitwa Klejnotów.\nZbierz dodatkowe klejnoty lub\nodkryj {@IW_tutorial@}, aby zdobyć\nnatychmiastową wygraną.",
+        "tutorial_02_portrait": "Zbierz 4 srebrne pierścienie,\naby uruchomić bonus Przetasowanie.\nKlejnoty zostaną przetasowane w\ncelu zebrania nowych układów.",
+        "your_number": "TWOJE SYMBOLE",
+        "luck_number": "SYMBOLE WYGRYWAJĄCE",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Stopień wygranej",
+        "prizeDescription":"Opis",
+        "paytableWager":"Opłata za los: ",
+        "prizeValue": "Wartość wygranej",
+        "descPreTextLevel1":"Dowolna kombinacja złożona z co najmniej 16 ",
+        "descPreTextLevel2":"Dowolna kombinacja od 13 do 15 ",
+        "descPreTextLevel3":"Dowolna kombinacja od 10 do 12 "
+    }
+}

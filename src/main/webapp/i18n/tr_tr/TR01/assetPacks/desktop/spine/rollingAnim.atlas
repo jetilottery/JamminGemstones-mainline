@@ -1,0 +1,242 @@
+
+rollingAnim.png
+size: 1819,1672
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ballSilverBonus
+  rotate: true
+  xy: 1282, 1416
+  size: 254, 261
+  orig: 600, 600
+  offset: 174, 169
+  index: -1
+bomb
+  rotate: false
+  xy: 2, 1516
+  size: 154, 154
+  orig: 170, 170
+  offset: 8, 8
+  index: -1
+bomb_shine
+  rotate: false
+  xy: 938, 1500
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 1048, 2
+  size: 547, 530
+  orig: 600, 600
+  offset: 25, 41
+  index: -1
+rollingAnim_0000
+  rotate: false
+  xy: 158, 1516
+  size: 154, 154
+  orig: 170, 170
+  offset: 8, 8
+  index: -1
+rollingAnim_0001
+  rotate: false
+  xy: 314, 1516
+  size: 154, 154
+  orig: 170, 170
+  offset: 8, 8
+  index: -1
+rollingAnim_0002
+  rotate: false
+  xy: 470, 1516
+  size: 154, 154
+  orig: 170, 170
+  offset: 8, 8
+  index: -1
+rollingAnim_0003
+  rotate: false
+  xy: 626, 1516
+  size: 154, 154
+  orig: 170, 170
+  offset: 8, 8
+  index: -1
+silverBonusSparkle_0001
+  rotate: false
+  xy: 1545, 1405
+  size: 272, 265
+  orig: 800, 800
+  offset: 258, 275
+  index: -1
+silverBonusSparkle_0002
+  rotate: false
+  xy: 2, 1225
+  size: 296, 289
+  orig: 800, 800
+  offset: 243, 264
+  index: -1
+silverBonusSparkle_0003
+  rotate: false
+  xy: 300, 1200
+  size: 320, 314
+  orig: 800, 800
+  offset: 232, 253
+  index: -1
+silverBonusSparkle_0004
+  rotate: false
+  xy: 622, 1161
+  size: 344, 337
+  orig: 800, 800
+  offset: 220, 243
+  index: -1
+silverBonusSparkle_0005
+  rotate: false
+  xy: 968, 1051
+  size: 367, 363
+  orig: 800, 800
+  offset: 206, 230
+  index: -1
+silverBonusSparkle_0006
+  rotate: false
+  xy: 1337, 1016
+  size: 391, 387
+  orig: 800, 800
+  offset: 196, 219
+  index: -1
+silverBonusSparkle_0007
+  rotate: false
+  xy: 2, 789
+  size: 418, 409
+  orig: 800, 800
+  offset: 181, 209
+  index: -1
+silverBonusSparkle_0008
+  rotate: false
+  xy: 422, 727
+  size: 437, 432
+  orig: 800, 800
+  offset: 171, 199
+  index: -1
+silverBonusSparkle_0009
+  rotate: false
+  xy: 861, 589
+  size: 463, 460
+  orig: 800, 800
+  offset: 156, 184
+  index: -1
+silverBonusSparkle_0010
+  rotate: true
+  xy: 1326, 534
+  size: 480, 485
+  orig: 800, 800
+  offset: 146, 172
+  index: -1
+silverBonusSparkle_0011
+  rotate: true
+  xy: 2, 231
+  size: 494, 510
+  orig: 800, 800
+  offset: 132, 161
+  index: -1
+silverBonusSparkle_0012
+  rotate: true
+  xy: 514, 76
+  size: 511, 532
+  orig: 800, 800
+  offset: 122, 149
+  index: -1
+whirl
+  rotate: false
+  xy: 782, 1516
+  size: 154, 154
+  orig: 170, 170
+  offset: 8, 8
+  index: -1
+whirl_shine
+  rotate: false
+  xy: 1110, 1500
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+
+rollingAnim2.png
+size: 1982,1782
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+silverBonusSparkle_0013
+  rotate: true
+  xy: 2, 1248
+  size: 532, 555
+  orig: 800, 800
+  offset: 113, 137
+  index: -1
+silverBonusSparkle_0014
+  rotate: true
+  xy: 559, 1235
+  size: 545, 577
+  orig: 800, 800
+  offset: 104, 125
+  index: -1
+silverBonusSparkle_0015
+  rotate: true
+  xy: 2, 672
+  size: 561, 583
+  orig: 800, 800
+  offset: 96, 113
+  index: -1
+silverBonusSparkle_0016
+  rotate: true
+  xy: 587, 655
+  size: 570, 606
+  orig: 800, 800
+  offset: 92, 100
+  index: -1
+silverBonusSparkle_0017
+  rotate: true
+  xy: 1195, 638
+  size: 587, 627
+  orig: 800, 800
+  offset: 81, 88
+  index: -1
+silverBonusSparkle_0018
+  rotate: true
+  xy: 2, 50
+  size: 603, 647
+  orig: 800, 800
+  offset: 74, 77
+  index: -1
+silverBonusSparkle_0019
+  rotate: true
+  xy: 651, 14
+  size: 622, 658
+  orig: 800, 800
+  offset: 64, 69
+  index: -1
+silverBonusSparkle_0020
+  rotate: true
+  xy: 1311, 2
+  size: 634, 669
+  orig: 800, 800
+  offset: 61, 67
+  index: -1
+silverBonusSparkle_0022
+  rotate: false
+  xy: 1138, 1227
+  size: 633, 553
+  orig: 800, 800
+  offset: 79, 111
+  index: -1
+
+rollingAnim3.png
+size: 651,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+silverBonusSparkle_0021
+  rotate: false
+  xy: 2, 2
+  size: 647, 673
+  orig: 800, 800
+  offset: 57, 71
+  index: -1

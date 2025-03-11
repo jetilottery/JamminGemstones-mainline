@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "ch10.m4a",
+    "ch10.ogg"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "SymbolPrizeIncrease": [
+      1050,
+      430.4988662131519
+    ],
+    "SymbolsDropInitial": [
+      2100,
+      1936.5986394557822
+    ],
+    "SymbolShuffle": [
+      4149.999999999999,
+      343.1292517006801
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+    "version": "11.9.2020 2:01PM Jammin Gemstones Default SM",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nein",
+        "confirm": "Benötigen Sie Sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% bis {@maxRTP}%",
+        "paybackTitle": "Erwartete Rückzahlung",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}."
+    },
+    "title": "Jammin' Gemstones",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Hilfe",
+            "payTable": "Gewinntabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben",
+            "prizeDivision": "Preis-Aufteilung",
+			"prizeValue": "Preis-Wert",
+			"approximatePrize": "Ungefähr verbleibende Preise",
+			"oddsPerPlay": "Chancen pro Spiel",
+            "overAllOdds": "Es besteht bei jedem Spiel eine Gesamtchance von 1 zu {oddNum}, um einen Preis zu gewinnen.",
+            "availablePrices": "Verfügbare Preispunkte: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Hilfe",
+            "payTable": "Gewinntabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben"
+        },
+        "audio":
+        {
+            "on": "Ein",
+            "off": "Aus",
+            "sound": "Sound"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fehler:29000\n\nEs ist ein interner Fehler aufgetreten.\nBEENDEN Sie das Spiel und starten Sie es erneut.",
+        "lostConnection": "Verbindung verloren!"
+    },
+    "Game":
+    {
+        "warpBonus_headerL": "Decken Sie ein {@instantWinAnim_Idle@} auf, um sofort einen \n Preis zu gewinnen!",
+        "warpBonus_headerP": "Decken Sie ein {@instantWinAnim_Idle@} auf, um sofort einen \n Preis zu gewinnen!",
+        "WBTriggered": "Keine Cluster übrig – Edelstein-Ansturm-Bonus ausgelöst",
+        "ABTriggered": "Keine Cluster übrig – Mischen-Bonus ausgelöst",
+        "NMChain": "Keine Cluster übrig",
+        "demo": "VERSUCHEN ",
+        "button_buy": "KAUFEN",
+        "button_try": "VERSUCHEN",
+        "button_play": "SPIELEN",
+        "button_continue": "FORTFAHREN",
+        "button_move2moneyGame": "UM GELD SPIELEN",
+        "button_autoPlay": "ALLE AUFDECKEN",
+        "button_playAgain": "ERNEUT SPIELEN",
+        "button_MTMPlayAgain": "ERNEUT VERSUCHEN",
+        "button_payTable": "GEWINNTABELLE",
+        "wager": "TICKETPREIS",
+        "meter_wager": "TICKETPREIS",
+        "balance": "GUTHABEN",
+        "wins": "GEWINN",
+        "wins_demo": "DEMO-GEWINN",
+        "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+        "message_buyWin": "GESAMTGEWINN",
+        "message_tryWin": "GESAMTER DEMO-GEWINN",
+
+        "message_buyWin_bg": "GLÜCKWUNSCH!\nSIE GEWINNEN",
+        "message_tryWin_bg": "DANKE FÜRS SPIELEN!\nSIE HÄTTEN GEWINNEN KÖNNEN",
+        "message_anonymousTryWin": "DANKE FÜRS SPIELEN!\nSIE HÄTTEN GEWINNEN KÖNNEN",
+        "message_close": "OKAY",
+        "button_exit": "BEENDEN",
+        "session_timeout_warning_exit_button": "BEENDEN",
+        "error_button_exit": "BEENDEN",
+        "warning_button_continue": "FORTFAHREN",
+        "warning_button_exitGame": "BEENDEN",
+        "warning_title": "WARNUNG",
+        "error_title": "FEHLER",
+        "win_up_to": "GEWINNEN SIE BIS ZU",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SPIELANLEITUNG",
+        "tutorial_00_landscape": "Sammeln Sie Cluster aus 3 oder mehr benachbarten Edelsteinen \noder Ringe mit dem mittleren Juwel der gleichen Farbe \nauf dem Raster. Neue Edelsteine fallen von oben herab. Sammeln Sie Gold-\nRinge und Silberringe, um ein Bonusspiel auszulösen.",
+        "tutorial_01_landscape": "Sammeln Sie 4 Goldringe, um den Edelstein-Ansturm-Bonus auszulösen.\nSammeln Sie zusätzliche Edelsteine oder decken Sie ein {@IW_tutorial@}\nauf, um sofort einen Preis zu gewinnen.",
+        "tutorial_02_landscape": "Sammeln Sie 4 Silberringe, um den Mischen-Bonus auszulösen.\nEdelsteine können ihre Position auf dem Raster ändern, wo sie\nzufällig eingesammelt werden können oder neue Cluster bilden.",
+        "tutorial_00_portrait": "Sammeln Sie Cluster aus 3 oder mehr\nbenachbarten Edelsteinen oder Ringe \nmit dem mittleren Juwel der gleichen\nFarbe auf dem Raster.\nNeue Edelsteine fallen von oben herab.\nSammeln Sie Goldringe\nund Silberringe, um\nein Bonusspiel auszulösen.",
+        "tutorial_01_portrait": "Sammeln Sie 4 Goldringe, um\nden Edelstein-Ansturm-Bonus auszulösen.\nSammeln Sie zusätzliche Edelsteine\noder decken Sie ein {@IW_tutorial@} auf, um\nsofort einen Preis zu gewinnen.",
+        "tutorial_02_portrait": "Sammeln Sie 4 Silberringe,\num den Mischen-Bonus auszulösen.\nEdelsteine können ihre\nPosition auf dem Raster ändern,\nwo sie zufällig\neingesammelt werden können\noder neue Cluster bilden.",
+        "your_number": "IHRE SYMBOLE",
+        "luck_number": "GEWINNSYMBOLE",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Preis-Stufe",
+        "prizeDescription":"Beschreibung",
+        "paytableWager":"Ticketpreis: ",
+        "prizeValue": "Preis-Wert",
+        "descPreTextLevel1":"Jede Kombination aus 16 oder mehr ",
+        "descPreTextLevel2":"Jede Kombination aus 13 bis 15 ",
+        "descPreTextLevel3":"Jede Kombination aus 10 bis 12 "
+    }
+}

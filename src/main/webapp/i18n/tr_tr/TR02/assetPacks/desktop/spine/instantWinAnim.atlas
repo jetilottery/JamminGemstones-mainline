@@ -1,0 +1,173 @@
+
+instantWinAnim.png
+size: 347,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+iwFlare
+  rotate: true
+  xy: 2, 211
+  size: 279, 310
+  orig: 500, 500
+  offset: 109, 91
+  index: -1
+iwSymbol
+  rotate: false
+  xy: 204, 79
+  size: 141, 130
+  orig: 200, 200
+  offset: 30, 36
+  index: -1
+iwSymbolHigh
+  rotate: false
+  xy: 2, 9
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 204, 2
+  size: 75, 75
+  orig: 80, 80
+  offset: 3, 2
+  index: -1
+
+instantWinAnim2.png
+size: 1647,1098
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sparkle/instantWinSparkle_0000
+  rotate: true
+  xy: 1304, 321
+  size: 157, 151
+  orig: 500, 500
+  offset: 171, 177
+  index: -1
+sparkle/instantWinSparkle_0001
+  rotate: false
+  xy: 1392, 111
+  size: 177, 169
+  orig: 500, 500
+  offset: 161, 168
+  index: -1
+sparkle/instantWinSparkle_0002
+  rotate: true
+  xy: 1457, 282
+  size: 196, 186
+  orig: 500, 500
+  offset: 152, 159
+  index: -1
+sparkle/instantWinSparkle_0003
+  rotate: true
+  xy: 1188, 96
+  size: 216, 202
+  orig: 500, 500
+  offset: 142, 151
+  index: -1
+sparkle/instantWinSparkle_0004
+  rotate: false
+  xy: 1068, 314
+  size: 234, 217
+  orig: 500, 500
+  offset: 133, 143
+  index: -1
+sparkle/instantWinSparkle_0005
+  rotate: false
+  xy: 1068, 533
+  size: 253, 233
+  orig: 500, 500
+  offset: 124, 135
+  index: -1
+sparkle/instantWinSparkle_0006
+  rotate: true
+  xy: 307, 6
+  size: 272, 247
+  orig: 500, 500
+  offset: 115, 127
+  index: -1
+sparkle/instantWinSparkle_0007
+  rotate: true
+  xy: 924, 23
+  size: 289, 262
+  orig: 500, 500
+  offset: 107, 119
+  index: -1
+sparkle/instantWinSparkle_0008
+  rotate: false
+  xy: 2, 2
+  size: 303, 276
+  orig: 500, 500
+  offset: 99, 112
+  index: -1
+sparkle/instantWinSparkle_0009
+  rotate: false
+  xy: 1325, 480
+  size: 315, 289
+  orig: 500, 500
+  offset: 91, 104
+  index: -1
+sparkle/instantWinSparkle_0010
+  rotate: true
+  xy: 1018, 768
+  size: 328, 305
+  orig: 500, 500
+  offset: 82, 93
+  index: -1
+sparkle/instantWinSparkle_0011
+  rotate: true
+  xy: 1325, 771
+  size: 325, 320
+  orig: 500, 500
+  offset: 70, 83
+  index: -1
+sparkle/instantWinSparkle_0012
+  rotate: true
+  xy: 732, 388
+  size: 342, 334
+  orig: 500, 500
+  offset: 58, 73
+  index: -1
+sparkle/instantWinSparkle_0013
+  rotate: true
+  xy: 676, 732
+  size: 364, 340
+  orig: 500, 500
+  offset: 47, 63
+  index: -1
+sparkle/instantWinSparkle_0014
+  rotate: true
+  xy: 376, 317
+  size: 382, 354
+  orig: 500, 500
+  offset: 39, 54
+  index: -1
+sparkle/instantWinSparkle_0015
+  rotate: true
+  xy: 310, 701
+  size: 395, 364
+  orig: 500, 500
+  offset: 36, 47
+  index: -1
+sparkle/instantWinSparkle_0016
+  rotate: true
+  xy: 2, 280
+  size: 405, 372
+  orig: 500, 500
+  offset: 35, 44
+  index: -1
+sparkle/instantWinSparkle_0017
+  rotate: true
+  xy: 2, 687
+  size: 409, 306
+  orig: 500, 500
+  offset: 36, 39
+  index: -1
+sparkle/instantWinSparkle_0018
+  rotate: false
+  xy: 556, 7
+  size: 366, 308
+  orig: 500, 500
+  offset: 79, 38
+  index: -1

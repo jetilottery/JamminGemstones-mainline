@@ -1,0 +1,3589 @@
+{
+    "skeleton":
+    {
+        "hash": "EmpG21cYP2/5TFY2SXXOxUJM3KI",
+        "spine": "3.8.99",
+        "images": "./images/",
+        "audio": ""
+    },
+    "bones": [
+    {
+        "name": "root"
+    },
+    {
+        "name": "iwSymbolHigh",
+        "parent": "root"
+    },
+    {
+        "name": "iwSymbol",
+        "parent": "root"
+    },
+    {
+        "name": "iwFlare",
+        "parent": "root"
+    },
+    {
+        "name": "iwSymbol2",
+        "parent": "root"
+    },
+    {
+        "name": "stars",
+        "parent": "root"
+    },
+    {
+        "name": "star",
+        "parent": "stars",
+        "x": -142.54,
+        "y": -45.08
+    },
+    {
+        "name": "star2",
+        "parent": "stars",
+        "x": -186.3,
+        "y": 37.79
+    },
+    {
+        "name": "star3",
+        "parent": "stars",
+        "x": -166.41,
+        "y": 105.42
+    },
+    {
+        "name": "star4",
+        "parent": "stars",
+        "x": -69.61,
+        "y": 98.7
+    },
+    {
+        "name": "star5",
+        "parent": "stars",
+        "x": 1.64,
+        "y": 156.14
+    },
+    {
+        "name": "star6",
+        "parent": "stars",
+        "x": 42.71,
+        "y": 75.99
+    },
+    {
+        "name": "star7",
+        "parent": "stars",
+        "x": 79.83,
+        "y": 42.84
+    },
+    {
+        "name": "star8",
+        "parent": "stars",
+        "x": 94.53,
+        "y": 58.16
+    },
+    {
+        "name": "star9",
+        "parent": "stars",
+        "x": 114.17,
+        "y": 29.81
+    },
+    {
+        "name": "star10",
+        "parent": "stars",
+        "x": 153.82,
+        "y": 72.51
+    },
+    {
+        "name": "star11",
+        "parent": "stars",
+        "x": 206.89,
+        "y": 56.65
+    },
+    {
+        "name": "star12",
+        "parent": "stars",
+        "x": 171.51,
+        "y": 7.24
+    },
+    {
+        "name": "star13",
+        "parent": "stars",
+        "x": 176.82,
+        "y": -10
+    },
+    {
+        "name": "star14",
+        "parent": "stars",
+        "x": 98.58,
+        "y": -38.51
+    },
+    {
+        "name": "star15",
+        "parent": "stars",
+        "x": 64.09,
+        "y": -65.88
+    },
+    {
+        "name": "star16",
+        "parent": "stars",
+        "x": -11,
+        "y": -153.06
+    },
+    {
+        "name": "star17",
+        "parent": "stars",
+        "x": -68.29,
+        "y": -92.51
+    },
+    {
+        "name": "star18",
+        "parent": "stars",
+        "x": -144.45,
+        "y": 66.98
+    },
+    {
+        "name": "iwSymbolHigh2",
+        "parent": "root"
+    },
+    {
+        "name": "sparkle",
+        "parent": "root"
+    }],
+    "slots": [
+    {
+        "name": "iwFlare",
+        "bone": "iwFlare"
+    },
+    {
+        "name": "sparkle",
+        "bone": "sparkle"
+    },
+    {
+        "name": "star",
+        "bone": "star"
+    },
+    {
+        "name": "star2",
+        "bone": "star2"
+    },
+    {
+        "name": "star3",
+        "bone": "star3"
+    },
+    {
+        "name": "star4",
+        "bone": "star4"
+    },
+    {
+        "name": "star5",
+        "bone": "star5"
+    },
+    {
+        "name": "star6",
+        "bone": "star6"
+    },
+    {
+        "name": "star7",
+        "bone": "star7"
+    },
+    {
+        "name": "star8",
+        "bone": "star8"
+    },
+    {
+        "name": "star9",
+        "bone": "star9"
+    },
+    {
+        "name": "star10",
+        "bone": "star10"
+    },
+    {
+        "name": "star11",
+        "bone": "star11"
+    },
+    {
+        "name": "star12",
+        "bone": "star12"
+    },
+    {
+        "name": "star13",
+        "bone": "star13"
+    },
+    {
+        "name": "star14",
+        "bone": "star14"
+    },
+    {
+        "name": "star15",
+        "bone": "star15"
+    },
+    {
+        "name": "star16",
+        "bone": "star16"
+    },
+    {
+        "name": "star17",
+        "bone": "star17"
+    },
+    {
+        "name": "star18",
+        "bone": "star18"
+    },
+    {
+        "name": "iwSymbolHigh",
+        "bone": "iwSymbolHigh"
+    },
+    {
+        "name": "iwSymbolHigh2",
+        "bone": "iwSymbolHigh2",
+        "blend": "additive"
+    },
+    {
+        "name": "iwSymbol",
+        "bone": "iwSymbol"
+    },
+    {
+        "name": "iwSymbol2",
+        "bone": "iwSymbol2",
+        "blend": "additive"
+    }],
+    "skins": [
+    {
+        "name": "default",
+        "attachments":
+        {
+            "iwFlare":
+            {
+                "iwFlare":
+                {
+                    "width": 500,
+                    "height": 500
+                }
+            },
+            "iwSymbol":
+            {
+                "iwSymbol":
+                {
+                    "width": 200,
+                    "height": 200
+                }
+            },
+            "iwSymbol2":
+            {
+                "iwSymbol":
+                {
+                    "width": 200,
+                    "height": 200
+                }
+            },
+            "iwSymbolHigh":
+            {
+                "iwSymbolHigh":
+                {
+                    "width": 200,
+                    "height": 200
+                }
+            },
+            "iwSymbolHigh2":
+            {
+                "iwSymbolHigh":
+                {
+                    "width": 200,
+                    "height": 200
+                }
+            },
+            "sparkle":
+            {
+                "sparkle/instantWinSparkle_0000":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0001":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0002":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0003":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0004":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0005":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0006":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0007":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0008":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0009":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0010":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0011":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0012":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0013":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0014":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0015":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0016":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0017":
+                {
+                    "width": 500,
+                    "height": 500
+                },
+                "sparkle/instantWinSparkle_0018":
+                {
+                    "width": 500,
+                    "height": 500
+                }
+            },
+            "star":
+            {
+                "star":
+                {
+                    "scaleX": 0.6,
+                    "scaleY": 0.6,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star2":
+            {
+                "star":
+                {
+                    "scaleX": 1.05,
+                    "scaleY": 1.05,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star3":
+            {
+                "star":
+                {
+                    "scaleX": 1.1,
+                    "scaleY": 1.1,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star4":
+            {
+                "star":
+                {
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star5":
+            {
+                "star":
+                {
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star6":
+            {
+                "star":
+                {
+                    "scaleX": 1.1,
+                    "scaleY": 1.1,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star7":
+            {
+                "star":
+                {
+                    "scaleX": 0.6,
+                    "scaleY": 0.6,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star8":
+            {
+                "star":
+                {
+                    "scaleX": 0.6,
+                    "scaleY": 0.6,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star9":
+            {
+                "star":
+                {
+                    "scaleX": 0.6,
+                    "scaleY": 0.6,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star10":
+            {
+                "star":
+                {
+                    "scaleX": 0.6,
+                    "scaleY": 0.6,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star11":
+            {
+                "star":
+                {
+                    "scaleX": 0.6,
+                    "scaleY": 0.6,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star12":
+            {
+                "star":
+                {
+                    "scaleX": 0.6,
+                    "scaleY": 0.6,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star13":
+            {
+                "star":
+                {
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star14":
+            {
+                "star":
+                {
+                    "scaleX": 0.6,
+                    "scaleY": 0.6,
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star15":
+            {
+                "star":
+                {
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star16":
+            {
+                "star":
+                {
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star17":
+            {
+                "star":
+                {
+                    "width": 80,
+                    "height": 80
+                }
+            },
+            "star18":
+            {
+                "star":
+                {
+                    "scaleX": 0.6,
+                    "scaleY": 0.6,
+                    "width": 80,
+                    "height": 80
+                }
+            }
+        }
+    }],
+    "animations":
+    {
+        "instantWinAnim_Idle":
+        {
+            "slots":
+            {
+                "iwSymbol":
+                {
+                    "attachment": [
+                    {
+                        "name": "iwSymbol"
+                    }]
+                },
+                "iwSymbol2":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffff45",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 2,
+                        "color": "ffffff45"
+                    },
+                    {
+                        "time": 3,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbol"
+                    }]
+                },
+                "iwSymbolHigh":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 2,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 3,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbolHigh"
+                    }]
+                },
+                "iwSymbolHigh2":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffffdb"
+                    },
+                    {
+                        "time": 2,
+                        "color": "ffffffb4"
+                    },
+                    {
+                        "time": 3,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbolHigh"
+                    }]
+                }
+            },
+            "bones":
+            {
+                "iwSymbol":
+                {
+                    "scale": [
+                    {
+                        "x": 0.65,
+                        "y": 0.65
+                    }]
+                },
+                "iwSymbol2":
+                {
+                    "scale": [
+                    {
+                        "x": 0.65,
+                        "y": 0.65
+                    }]
+                },
+                "iwSymbolHigh":
+                {
+                    "scale": [
+                    {
+                        "x": 0.65,
+                        "y": 0.65
+                    }]
+                },
+                "iwSymbolHigh2":
+                {
+                    "scale": [
+                    {
+                        "x": 0.65,
+                        "y": 0.65
+                    }]
+                }
+            },
+            "drawOrder": [
+            {
+                "offsets": [
+                {
+                    "slot": "iwSymbolHigh",
+                    "offset": 1
+                }]
+            }]
+        },
+        "instantWinAnim_Intro":
+        {
+            "slots":
+            {
+                "iwFlare":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "iwFlare"
+                    }]
+                },
+                "iwSymbol":
+                {
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "iwSymbol"
+                    }]
+                },
+                "iwSymbolHigh":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.0667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.2667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.4333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbolHigh"
+                    }]
+                },
+                "iwSymbolHigh2":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.0667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.2667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.4333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbolHigh"
+                    }]
+                },
+                "sparkle":
+                {
+                    "color": [
+                    {
+                        "color": "f9ffd0ff"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "sparkle/instantWinSparkle_0000"
+                    },
+                    {
+                        "time": 0.3667,
+                        "name": "sparkle/instantWinSparkle_0001"
+                    },
+                    {
+                        "time": 0.4,
+                        "name": "sparkle/instantWinSparkle_0002"
+                    },
+                    {
+                        "time": 0.4333,
+                        "name": "sparkle/instantWinSparkle_0003"
+                    },
+                    {
+                        "time": 0.4667,
+                        "name": "sparkle/instantWinSparkle_0004"
+                    },
+                    {
+                        "time": 0.5,
+                        "name": "sparkle/instantWinSparkle_0005"
+                    },
+                    {
+                        "time": 0.5333,
+                        "name": "sparkle/instantWinSparkle_0006"
+                    },
+                    {
+                        "time": 0.5667,
+                        "name": "sparkle/instantWinSparkle_0007"
+                    },
+                    {
+                        "time": 0.6,
+                        "name": "sparkle/instantWinSparkle_0008"
+                    },
+                    {
+                        "time": 0.6333,
+                        "name": "sparkle/instantWinSparkle_0009"
+                    },
+                    {
+                        "time": 0.6667,
+                        "name": "sparkle/instantWinSparkle_0010"
+                    },
+                    {
+                        "time": 0.7,
+                        "name": "sparkle/instantWinSparkle_0011"
+                    },
+                    {
+                        "time": 0.7333,
+                        "name": "sparkle/instantWinSparkle_0012"
+                    },
+                    {
+                        "time": 0.7667,
+                        "name": "sparkle/instantWinSparkle_0013"
+                    },
+                    {
+                        "time": 0.8,
+                        "name": "sparkle/instantWinSparkle_0014"
+                    },
+                    {
+                        "time": 0.8333,
+                        "name": "sparkle/instantWinSparkle_0015"
+                    },
+                    {
+                        "time": 0.8667,
+                        "name": "sparkle/instantWinSparkle_0016"
+                    },
+                    {
+                        "time": 0.9,
+                        "name": "sparkle/instantWinSparkle_0017"
+                    },
+                    {
+                        "time": 0.9333,
+                        "name": "sparkle/instantWinSparkle_0018"
+                    },
+                    {
+                        "time": 0.9667,
+                        "name": null
+                    }]
+                }
+            },
+            "bones":
+            {
+                "iwSymbolHigh":
+                {
+                    "translate": [
+                    {
+                        "y": -10
+                    },
+                    {
+                        "time": 0.1667,
+                        "y": 10
+                    },
+                    {
+                        "time": 0.3333,
+                        "y": -5
+                    },
+                    {
+                        "time": 0.4333,
+                        "y": 3
+                    },
+                    {
+                        "time": 0.5333
+                    }],
+                    "scale": [
+                    {},
+                    {
+                        "time": 0.1667,
+                        "x": 1.02,
+                        "y": 1.02
+                    },
+                    {
+                        "time": 0.3333
+                    }]
+                },
+                "iwSymbol":
+                {
+                    "translate": [
+                    {
+                        "y": -10
+                    },
+                    {
+                        "time": 0.1667,
+                        "y": 10
+                    },
+                    {
+                        "time": 0.3333,
+                        "y": -5
+                    },
+                    {
+                        "time": 0.4333,
+                        "y": 3
+                    },
+                    {
+                        "time": 0.5333
+                    }]
+                },
+                "iwFlare":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 1.1333,
+                        "angle": -48
+                    }]
+                },
+                "iwSymbolHigh2":
+                {
+                    "translate": [
+                    {
+                        "y": -10
+                    },
+                    {
+                        "time": 0.1667,
+                        "y": 10
+                    },
+                    {
+                        "time": 0.3333,
+                        "y": -5
+                    },
+                    {
+                        "time": 0.4333,
+                        "y": 3
+                    },
+                    {
+                        "time": 0.5333
+                    }],
+                    "scale": [
+                    {},
+                    {
+                        "time": 0.1667,
+                        "x": 1.02,
+                        "y": 1.02
+                    },
+                    {
+                        "time": 0.3333
+                    }]
+                }
+            }
+        },
+        "instantWinAnim_Intro(copy)":
+        {
+            "slots":
+            {
+                "iwFlare":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 3.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 3.6667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "iwFlare"
+                    }]
+                },
+                "iwSymbol":
+                {
+                    "color": [
+                    {
+                        "time": 3.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 3.6667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "iwSymbol"
+                    }]
+                },
+                "iwSymbolHigh":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.0667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.2667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.4333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbolHigh"
+                    }]
+                },
+                "iwSymbolHigh2":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.0667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.2667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.4333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbolHigh"
+                    }]
+                },
+                "star":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star2":
+                {
+                    "color": [
+                    {
+                        "time": 0.8333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star3":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star4":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star5":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star6":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star7":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star8":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star9":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star10":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star11":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star12":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star13":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star14":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star15":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star16":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star17":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star18":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                }
+            },
+            "bones":
+            {
+                "iwSymbolHigh":
+                {
+                    "translate": [
+                    {
+                        "y": -10
+                    },
+                    {
+                        "time": 0.1667,
+                        "y": 10
+                    },
+                    {
+                        "time": 0.3333,
+                        "y": -5
+                    },
+                    {
+                        "time": 0.4333,
+                        "y": 3
+                    },
+                    {
+                        "time": 0.5333
+                    }],
+                    "scale": [
+                    {},
+                    {
+                        "time": 0.1667,
+                        "x": 1.02,
+                        "y": 1.02
+                    },
+                    {
+                        "time": 0.3333
+                    }]
+                },
+                "iwSymbol":
+                {
+                    "translate": [
+                    {
+                        "y": -10
+                    },
+                    {
+                        "time": 0.1667,
+                        "y": 10
+                    },
+                    {
+                        "time": 0.3333,
+                        "y": -5
+                    },
+                    {
+                        "time": 0.4333,
+                        "y": 3
+                    },
+                    {
+                        "time": 0.5333
+                    }]
+                },
+                "iwFlare":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 1.1667,
+                        "angle": -50
+                    },
+                    {
+                        "time": 2
+                    },
+                    {
+                        "time": 2.8333,
+                        "angle": -50
+                    },
+                    {
+                        "time": 3.6667
+                    }]
+                },
+                "star4":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 42.32,
+                        "y": -78.2
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": -45.08,
+                        "y": 63.48
+                    }]
+                },
+                "star5":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -4.6,
+                        "y": -119.6
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": -1.52,
+                        "y": 64.05
+                    }]
+                },
+                "star6":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -24.4,
+                        "y": -42.7
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": 50.32,
+                        "y": 68.62
+                    }]
+                },
+                "star8":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -139.25,
+                        "y": -70.76
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -205.71,
+                        "y": -65.27
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": -317.12,
+                        "y": -71.77
+                    }]
+                },
+                "star13":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -118.95,
+                        "y": -9.15
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -50.33,
+                        "y": -24.4
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": 7.63,
+                        "y": -42.7
+                    }]
+                },
+                "star14":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -67.1,
+                        "y": 16.77
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": 56.43,
+                        "y": -18.3
+                    }]
+                },
+                "star15":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -26.88,
+                        "y": 26.88
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 2.57,
+                        "y": -7.88
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": 45.92,
+                        "y": -50.53
+                    }]
+                },
+                "star16":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 2.57,
+                        "y": 104.68
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 2.89,
+                        "y": 48.25
+                    },
+                    {
+                        "time": 1.1667
+                    }]
+                },
+                "star17":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 34.74,
+                        "y": 34.74
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": -51.14,
+                        "y": -38.6
+                    }]
+                },
+                "star18":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 89.74,
+                        "y": -55.97
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 11.58,
+                        "y": -1.93
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": -27.72,
+                        "y": 16.84
+                    }]
+                },
+                "star10":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -131.64,
+                        "y": -62.81
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -43.73,
+                        "y": 22.25
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": 6.81,
+                        "y": 78.96
+                    }]
+                },
+                "star":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 91.5,
+                        "y": 22.87
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": -108.27,
+                        "y": -33.55
+                    }]
+                },
+                "star2":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 137.42,
+                        "y": -27.85
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 15.06,
+                        "y": 7.59
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": -87.68,
+                        "y": 34.45
+                    }]
+                },
+                "star3":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 128.27,
+                        "y": -87.57
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 73.06,
+                        "y": -51.85
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": -45.75,
+                        "y": 32.03
+                    }]
+                },
+                "star7":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -39.65,
+                        "y": -27.45
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 5.93,
+                        "y": 6.92
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": 45.75,
+                        "y": 50.32
+                    }]
+                },
+                "star9":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -74.72,
+                        "y": -36.6
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": 74.72,
+                        "y": 32.03
+                    }]
+                },
+                "star11":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -236.34,
+                        "y": -79.29
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -291.17,
+                        "y": -108.41
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": -369.75,
+                        "y": -143.14
+                    }]
+                },
+                "star12":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1667
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -122.37,
+                        "y": -16.94
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -0.99,
+                        "y": 3.96
+                    },
+                    {
+                        "time": 1.1667,
+                        "x": 75.46,
+                        "y": 6.1
+                    }]
+                },
+                "iwSymbolHigh2":
+                {
+                    "translate": [
+                    {
+                        "y": -10
+                    },
+                    {
+                        "time": 0.1667,
+                        "y": 10
+                    },
+                    {
+                        "time": 0.3333,
+                        "y": -5
+                    },
+                    {
+                        "time": 0.4333,
+                        "y": 3
+                    },
+                    {
+                        "time": 0.5333
+                    }],
+                    "scale": [
+                    {},
+                    {
+                        "time": 0.1667,
+                        "x": 1.02,
+                        "y": 1.02
+                    },
+                    {
+                        "time": 0.3333
+                    }]
+                }
+            }
+        },
+        "instantWinAnim_Intro2":
+        {
+            "slots":
+            {
+                "iwFlare":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "iwFlare"
+                    }]
+                },
+                "iwSymbol":
+                {
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "iwSymbol"
+                    }]
+                },
+                "iwSymbolHigh":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.0667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.2667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.4333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbolHigh"
+                    }]
+                },
+                "iwSymbolHigh2":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.0667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.2667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.4333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbolHigh"
+                    }]
+                },
+                "sparkle":
+                {
+                    "color": [
+                    {
+                        "color": "f9ffd0ff"
+                    }]
+                },
+                "star":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star2":
+                {
+                    "color": [
+                    {
+                        "time": 0.8333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star3":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star4":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star5":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star6":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star7":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star8":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star9":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star10":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star11":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star12":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star13":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star14":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star15":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star16":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star17":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                },
+                "star18":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "time": 0.3333,
+                        "name": "star"
+                    }]
+                }
+            },
+            "bones":
+            {
+                "iwSymbolHigh":
+                {
+                    "translate": [
+                    {
+                        "y": -10
+                    },
+                    {
+                        "time": 0.1667,
+                        "y": 10
+                    },
+                    {
+                        "time": 0.3333,
+                        "y": -5
+                    },
+                    {
+                        "time": 0.4333,
+                        "y": 3
+                    },
+                    {
+                        "time": 0.5333
+                    }],
+                    "scale": [
+                    {},
+                    {
+                        "time": 0.1667,
+                        "x": 1.02,
+                        "y": 1.02
+                    },
+                    {
+                        "time": 0.3333
+                    }]
+                },
+                "iwSymbol":
+                {
+                    "translate": [
+                    {
+                        "y": -10
+                    },
+                    {
+                        "time": 0.1667,
+                        "y": 10
+                    },
+                    {
+                        "time": 0.3333,
+                        "y": -5
+                    },
+                    {
+                        "time": 0.4333,
+                        "y": 3
+                    },
+                    {
+                        "time": 0.5333
+                    }]
+                },
+                "iwFlare":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 1.1333,
+                        "angle": -48
+                    }]
+                },
+                "star4":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 42.32,
+                        "y": -78.2
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": -45.08,
+                        "y": 63.48
+                    }]
+                },
+                "star5":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -4.6,
+                        "y": -119.6
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": -1.52,
+                        "y": 64.05
+                    }]
+                },
+                "star6":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -24.4,
+                        "y": -42.7
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": 50.32,
+                        "y": 68.62
+                    }]
+                },
+                "star8":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -139.25,
+                        "y": -70.76
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -205.71,
+                        "y": -65.27
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": -317.12,
+                        "y": -71.77
+                    }]
+                },
+                "star13":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -118.95,
+                        "y": -9.15
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -50.33,
+                        "y": -24.4
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": 7.63,
+                        "y": -42.7
+                    }]
+                },
+                "star14":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -67.1,
+                        "y": 16.77
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": 56.43,
+                        "y": -18.3
+                    }]
+                },
+                "star15":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -26.88,
+                        "y": 26.88
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 2.57,
+                        "y": -7.88
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": 45.92,
+                        "y": -50.53
+                    }]
+                },
+                "star16":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 2.57,
+                        "y": 104.68
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 2.89,
+                        "y": 48.25
+                    },
+                    {
+                        "time": 1.1333
+                    }]
+                },
+                "star17":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 34.74,
+                        "y": 34.74
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": -51.14,
+                        "y": -38.6
+                    }]
+                },
+                "star18":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 89.74,
+                        "y": -55.97
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 11.58,
+                        "y": -1.93
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": -27.72,
+                        "y": 16.84
+                    }]
+                },
+                "star10":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -131.64,
+                        "y": -62.81
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -43.73,
+                        "y": 22.25
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": 6.81,
+                        "y": 78.96
+                    }]
+                },
+                "star":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 91.5,
+                        "y": 22.87
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": -108.27,
+                        "y": -33.55
+                    }]
+                },
+                "star2":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 137.42,
+                        "y": -27.85
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 15.06,
+                        "y": 7.59
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": -87.68,
+                        "y": 34.45
+                    }]
+                },
+                "star3":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": 128.27,
+                        "y": -87.57
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 73.06,
+                        "y": -51.85
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": -45.75,
+                        "y": 32.03
+                    }]
+                },
+                "star7":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -39.65,
+                        "y": -27.45
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": 5.93,
+                        "y": 6.92
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": 45.75,
+                        "y": 50.32
+                    }]
+                },
+                "star9":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -74.72,
+                        "y": -36.6
+                    },
+                    {
+                        "time": 0.6667
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": 74.72,
+                        "y": 32.03
+                    }]
+                },
+                "star11":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -236.34,
+                        "y": -79.29
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -291.17,
+                        "y": -108.41
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": -369.75,
+                        "y": -143.14
+                    }]
+                },
+                "star12":
+                {
+                    "rotate": [
+                    {
+                        "time": 0.3333
+                    },
+                    {
+                        "time": 0.6667,
+                        "angle": 180
+                    },
+                    {
+                        "time": 1.1333
+                    }],
+                    "translate": [
+                    {
+                        "time": 0.3333,
+                        "x": -122.37,
+                        "y": -16.94
+                    },
+                    {
+                        "time": 0.6667,
+                        "x": -0.99,
+                        "y": 3.96
+                    },
+                    {
+                        "time": 1.1333,
+                        "x": 75.46,
+                        "y": 6.1
+                    }]
+                },
+                "iwSymbolHigh2":
+                {
+                    "translate": [
+                    {
+                        "y": -10
+                    },
+                    {
+                        "time": 0.1667,
+                        "y": 10
+                    },
+                    {
+                        "time": 0.3333,
+                        "y": -5
+                    },
+                    {
+                        "time": 0.4333,
+                        "y": 3
+                    },
+                    {
+                        "time": 0.5333
+                    }],
+                    "scale": [
+                    {},
+                    {
+                        "time": 0.1667,
+                        "x": 1.02,
+                        "y": 1.02
+                    },
+                    {
+                        "time": 0.3333
+                    }]
+                },
+                "sparkle":
+                {
+                    "scale": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    }]
+                }
+            }
+        },
+        "instantWinAnim_LOOP(no_Use)":
+        {
+            "slots":
+            {
+                "iwFlare":
+                {
+                    "attachment": [
+                    {
+                        "name": "iwFlare"
+                    }]
+                },
+                "iwSymbol":
+                {
+                    "attachment": [
+                    {
+                        "name": "iwSymbol"
+                    }]
+                },
+                "iwSymbol2":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.8333,
+                        "color": "ffffff78"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "iwSymbol"
+                    }]
+                },
+                "star":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.3333,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star2":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star3":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star4":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star5":
+                {
+                    "color": [
+                    {
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star6":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star7":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.1333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.4667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star8":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star9":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star10":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star11":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star12":
+                {
+                    "color": [
+                    {
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffff00"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star13":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star14":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star15":
+                {
+                    "color": [
+                    {
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.3333,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star16":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star17":
+                {
+                    "color": [
+                    {
+                        "time": 0.3333,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 0.6667,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                },
+                "star18":
+                {
+                    "color": [
+                    {
+                        "time": 0.6667,
+                        "color": "ffffffff"
+                    },
+                    {
+                        "time": 1,
+                        "color": "ffffff00",
+                        "curve": "stepped"
+                    },
+                    {
+                        "time": 1.3333,
+                        "color": "ffffff00"
+                    },
+                    {
+                        "time": 1.6667,
+                        "color": "ffffffff"
+                    }],
+                    "attachment": [
+                    {
+                        "name": "star"
+                    }]
+                }
+            },
+            "bones":
+            {
+                "iwFlare":
+                {
+                    "rotate": [
+                    {},
+                    {
+                        "time": 0.8333,
+                        "angle": -50
+                    },
+                    {
+                        "time": 1.6667
+                    }]
+                }
+            }
+        },
+        "instantWinAnim_Loop":
+        {
+            "slots":
+            {
+                "iwFlare":
+                {
+                    "attachment": [
+                    {
+                        "name": "iwFlare"
+                    }]
+                },
+                "iwSymbol":
+                {
+                    "attachment": [
+                    {
+                        "name": "iwSymbol"
+                    }]
+                }
+            },
+            "bones":
+            {
+                "iwFlare":
+                {
+                    "rotate": [
+                    {
+                        "angle": -50
+                    },
+                    {
+                        "time": 0.8333
+                    },
+                    {
+                        "time": 1.6667,
+                        "angle": -50
+                    },
+                    {
+                        "time": 2.5
+                    },
+                    {
+                        "time": 3.3333,
+                        "angle": -50
+                    }]
+                }
+            }
+        }
+    }
+}

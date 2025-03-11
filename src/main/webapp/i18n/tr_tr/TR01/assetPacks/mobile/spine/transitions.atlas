@@ -1,0 +1,73 @@
+
+transitions.png
+size: 504,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Transition
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+transitions2.png
+size: 1338,1506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/bonusCoinLarge
+  rotate: true
+  xy: 2, 997
+  size: 507, 522
+  orig: 540, 540
+  offset: 17, 11
+  index: -1
+Trans/bonusWheelCoinLarge
+  rotate: true
+  xy: 2, 997
+  size: 507, 522
+  orig: 540, 540
+  offset: 17, 11
+  index: -1
+Trans/diamonds
+  rotate: true
+  xy: 2, 2
+  size: 810, 1147
+  orig: 810, 1200
+  offset: 0, 53
+  index: -1
+Trans/diamonds2
+  rotate: false
+  xy: 526, 814
+  size: 810, 690
+  orig: 810, 1200
+  offset: 0, 253
+  index: -1
+
+transitions3.png
+size: 1062,1000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/glow2-gigapixel-scale-2_00x
+  rotate: true
+  xy: 2, 2
+  size: 996, 1058
+  orig: 1204, 1204
+  offset: 97, 107
+  index: -1
+
+transitions4.png
+size: 1106,1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/glow1-gigapixel-scale-2_00x
+  rotate: false
+  xy: 2, 2
+  size: 1102, 1066
+  orig: 1204, 1204
+  offset: 51, 85
+  index: -1

@@ -1,0 +1,62 @@
+
+prizeSymbols.png
+size: 396,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: false
+  xy: 127, 69
+  size: 74, 65
+  orig: 162, 162
+  offset: 44, 49
+  index: -1
+flare
+  rotate: false
+  xy: 2, 8
+  size: 123, 126
+  orig: 162, 162
+  offset: 20, 18
+  index: -1
+green
+  rotate: false
+  xy: 203, 69
+  size: 74, 65
+  orig: 162, 162
+  offset: 44, 49
+  index: -1
+light2
+  rotate: false
+  xy: 355, 57
+  size: 39, 77
+  orig: 162, 162
+  offset: 39, 43
+  index: -1
+orange
+  rotate: false
+  xy: 279, 69
+  size: 74, 65
+  orig: 162, 162
+  offset: 44, 49
+  index: -1
+purple
+  rotate: false
+  xy: 127, 2
+  size: 74, 65
+  orig: 162, 162
+  offset: 44, 49
+  index: -1
+red
+  rotate: false
+  xy: 203, 2
+  size: 74, 65
+  orig: 162, 162
+  offset: 44, 49
+  index: -1
+yellow
+  rotate: false
+  xy: 279, 2
+  size: 74, 65
+  orig: 162, 162
+  offset: 44, 49
+  index: -1

@@ -1,0 +1,110 @@
+{
+    "version": "11-9-2020 2:01PM Jammin Gemstones Default SM",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nej",
+        "confirm": "Vill du ha ljud?"
+    },
+    "Paytable": {
+        "RTPvalue": "är {@minRTP} %",
+        "RTPrange": "är från {@minRTP} % till {@maxRTP} %",
+        "paybackTitle": "Förväntad återbetalning",
+        "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}."
+    },
+    "title": "Jammin' Gemstones",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Hjälp",
+            "payTable": "Vinsttabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo",
+            "prizeDivision": "Prisindelning",
+			"prizeValue": "Prisvärde",
+			"approximatePrize": "Ungefärligt antal återstående priser",
+			"oddsPerPlay": "Odds per spel",
+            "overAllOdds": "Sannolikheten att vinna ett pris är 1 på {oddNum} varje gång man spelar.",
+            "availablePrices": "Tillgängliga prisnivåer:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Hjälp",
+            "payTable": "Vinsttabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "På",
+            "off": "Av",
+            "sound": "Ljud"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fel:29000\n\nDet har inträffat ett internt fel.\nLÄMNA och starta om spelet.",
+        "lostConnection": "Anslutningen avbröts!"
+    },
+    "Game":
+    {
+        "warpBonus_headerL": "Avslöja en {@instantWinAnim_Idle@} för att vinna\n ett pris direkt!",
+        "warpBonus_headerP": "Avslöja en {@instantWinAnim_Idle@} för att vinna ett pris direkt!",
+        "WBTriggered": "Inga kluster kvar – Gem Rush-bonus aktiverad",
+        "ABTriggered": "Inga kluster kvar – Shuffle-bonus aktiverad",
+        "NMChain": "Inga kluster kvar",
+        "demo": "FÖRSÖK ",
+        "button_buy": "KÖP",
+        "button_try": "FÖRSÖK",
+        "button_play": "SPELA",
+        "button_continue": "FORTSÄTT",
+        "button_move2moneyGame": "FLYTTA TILL PENGAR",
+        "button_autoPlay": "AVSLÖJA ALLA",
+        "button_playAgain": "SPELA IGEN",
+        "button_MTMPlayAgain": "FÖRSÖK IGEN",
+        "button_payTable": "VINSTTABELL",
+        "wager": "LOTTKOSTNAD",
+        "meter_wager": "LOTTKOSTNAD",
+        "balance": "SALDO",
+        "wins": "VINST",
+        "wins_demo": "DEMOVINST",
+        "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+        "message_buyWin": "TOTAL VINST",
+        "message_tryWin": "TOTAL DEMOVINST",
+
+        "message_buyWin_bg": "GRATTIS!\nDU HAR VUNNIT",
+        "message_tryWin_bg": "TACK FÖR ATT DU SPELAR!\nDU KUNDE HA VUNNIT",
+        "message_anonymousTryWin": "TACK FÖR ATT DU SPELAR!\nDU KUNDE HA VUNNIT",
+        "message_close": "OK",
+        "button_exit": "LÄMNA",
+        "session_timeout_warning_exit_button": "LÄMNA",
+        "error_button_exit": "LÄMNA",
+        "warning_button_continue": "FORTSÄTT",
+        "warning_button_exitGame": "LÄMNA",
+        "warning_title": "VARNING",
+        "error_title": "FEL",
+        "win_up_to": "VINN UPP TILL",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SÅ HÄR SPELAR DU",
+        "tutorial_00_landscape": "Samla kluster bestående av 3 eller fler angränsande ädelstenar, \neller ringar med samma ädelstensfärg, \npå rutnätet. Nya ädelstenar faller ned från ovan. Samla in guld- \noch silverringar för att aktivera ett bonusspel.",
+        "tutorial_01_landscape": "Samla in 4 guldringar för att aktivera Gem Rush-bonusen. \nSamla in ytterligare ädelstenar eller avslöja en {@IW_tutorial@}\n för att vinna ett pris direkt.",
+        "tutorial_02_landscape": "Samla in 4 silverringar för att aktivera Shuffle-bonusen.\n Ädelstenar kan skifta position på rutnätet, där de \nsamlas in slumpmässigt eller bildar nya kluster.",
+        "tutorial_00_portrait": "Samla kluster bestående av 3 eller fler\nangränsande ädelstenar, eller ringar \nmed samma ädelstensfärg,\npå rutnätet.\nNya ädelstenar faller ned från ovan.\nSamla in guld-\noch silverringar för att\naktivera ett bonusspel.",
+        "tutorial_01_portrait": "Samla in 4 guldringar för att\naktivera Gem Rush-bonusen.\nSamla in ytterligare ädelstenar eller\navslöja en {@IW_tutorial@} för att\nvinna ett pris direkt.",
+        "tutorial_02_portrait": "Samla in 4 silverringar för att\naktivera Shuffle-bonusen.\nÄdelstenar kan skifta\nposition på rutnätet,\ndär de samlas in slumpmässigt\neller bildar nya kluster.",
+        "your_number": "DINA SYMBOLER",
+        "luck_number": "VINNANDE SYMBOLER",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prisnivå",
+        "prizeDescription":"Beskrivning",
+        "paytableWager":"Lottkostnad: ",
+        "prizeValue": "Prisvärde",
+        "descPreTextLevel1":"Vilken kombination som helst av 16 eller fler ",
+        "descPreTextLevel2":"Vilken kombination som helst av 13 till 15 ",
+        "descPreTextLevel3":"Vilken kombination som helst av 10 till 12 "
+    }
+}

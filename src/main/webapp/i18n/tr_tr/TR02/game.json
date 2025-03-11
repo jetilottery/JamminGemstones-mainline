@@ -1,0 +1,114 @@
+{
+    "version": "11.09.2020 14:01 Jammin Gemstones Varsayılan SM",
+    "audioLoader":
+    {
+        "yes": "Evet",
+        "no": "Hayır",
+        "confirm": "Ses açılsın mı?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "%{@minRTP}'dir",
+        "RTPrange": "%{@minRTP}'dir ila %{@maxRTP}'dir arasında",
+        "paybackTitle": "Beklenen Kazanç Oranı",
+        "paybackBody": "Bu oyun için Oyuncuya Geri Dönüş Ortalaması (RTP) {RTP}."
+    },
+    "title": "KOVAN MÜCEVHERLERİ",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Yardim Dosyasi",
+            "payTable": "Ödeme Tablosu",
+            "price": "Ücret",
+            "stake": "Yatırılan Miktar",
+            "balance": "Bakiye",
+            "prizeDivision": "Ödül Dağılımı",
+            "prizeValue": "Ödül Değeri",
+            "approximatePrize": "Kalan Yaklaşık Ödül Sayısı",
+            "oddsPerPlay": "Oynama Başına Oranlar",
+            "overAllOdds": "Oyun başına ödül kazanma şansı toplamda {oddNum} oyunda 1'dir.",
+            "availablePrices": "Mevcut Fiyat Noktaları: {prices}"
+
+        },
+        "Commercial":
+        {
+            "howToPlay": "Yardim Dosyasi",
+            "payTable": "Ödeme Tablosu",
+            "price": "Ücret",
+            "stake": "Yatırılan Miktar",
+            "balance": "Bakiye"
+        },
+        "audio":
+        {
+            "on": "Açık",
+            "off": "Kapalı",
+            "sound": "Ses"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Hata: 29000\n\nİç kaynaklı bir hata oluştu.\nÇIKIN ve oyunu yeniden başlatın.",
+        "lostConnection": "Bağlantı Kesildi!"
+    },
+    "Game":
+    {
+        "warpBonus_headerL": "Anında ödül kazanmak için bir {@instantWinAnim_Idle@} aç!",
+        "warpBonus_headerP": "Anında ödül kazanmak için bir {@instantWinAnim_Idle@} aç!",
+        "WBTriggered": "Küme kalmadı – Mücevhere Hücum Bonusu başladı",
+        "ABTriggered": "Küme kalmadı – Karıştırma Bonusu başladı",
+        "NMChain": "Küme kalmadı",
+
+        "demo": "OYNA ",
+        "button_buy": "OYNA",
+        "button_try": "OYNA",
+        "button_play": "OYNA",
+        "button_continue": "DEVAM ET",
+        "button_move2moneyGame": "GERÇEK OYUN MODUNA GEÇ",
+        "button_autoPlay": "TÜMÜNÜ AÇ",
+        "button_playAgain": "TEKRAR OYNA",
+        "button_MTMPlayAgain": "TEKRAR DENE",
+        "button_payTable": "ÖDEME TABLOSU",
+        "wager": "OYUN TUTARI",
+        "meter_wager": "OYUN TUTARI",
+        "balance": "BAKİYE",
+        "wins": "KAZANÇ",
+        "wins_demo": "DEMO KAZANCI",
+        "message_nonWin": "TEKRAR\nDENEYİN",
+        "message_buyWin": "TEBRİKLER! KAZANCIN",
+        "message_tryWin": "TEBRİKLER! KAZANCIN",
+
+        "message_buyWin_bg": "TEBRİKLER!\nKAZANCIN",
+        "message_tryWin_bg": "TEBRİKLER!\nKAZANCIN",
+        "message_anonymousTryWin": "TEBRİKLER!\nKAZANCIN",
+        "message_close": "TAMAM",
+        "button_exit": "ÇIK",
+        "session_timeout_warning_exit_button": "ÇIK",
+        "error_button_exit": "ÇIK",
+        "warning_button_continue": "DEVAM ET",
+        "warning_button_exitGame": "ÇIK",
+        "warning_title": "UYARI",
+        "error_title": "HATA",
+        "win_up_to": "BÜYÜK ÖDÜL",
+        "win_up_to_mark": "",
+        "tutorial_title": "OYUN KURALLARI",
+        "tutorial_00_landscape": "Oyun alanında ortadaki mücevher rengi aynı olan 3 veya daha fazla \nbitişik mücevher veya yüzük kümesi \ntopla. Yukarıdan yeni mücevherler düşer. Bonus oyun \nbaşlatmak için altın yüzükler ve gümüş yüzükler topla.",
+        "tutorial_01_landscape": "Mücevhere Hücum Bonusunu başlatmak için 4 altın yüzük topla.\nAnında ödül kazanmak için ekstra mücevherler topla\nveya bir {@IW_tutorial@} aç.",
+        "tutorial_02_landscape": "Karıştırma Bonusunu başlatmak için 4 gümüş yüzük topla.\nMücevherlerin oyun alanındaki konumları değişebilir\nve böylece mücevherler rastgele toplanabilir veya\n yeni kümeler oluşturabilir.",
+
+        "tutorial_00_portrait": "Oyun alanında ortadaki mücevher\nrengi aynı olan 3 veya \ndaha fazla bitişik mücevher veya\nyüzük kümesi topla.\nYeni mücevherler yukarıdan düşer.\nBonus oyun başlatmak için\naltın yüzükler ve gümüş yüzükler\ntopla.",
+        "tutorial_01_portrait": "Mücevhere Hücum Bonusunu\nbaşlatmak için 4\naltın yüzük topla.\nAnında ödül kazanmak için\nekstra mücevherler topla\nveya bir {@IW_tutorial@} aç.",
+        "tutorial_02_portrait": "Karıştırma Bonusunu\nbaşlatmak için\n4 gümüş yüzük topla.\nMücevherlerin oyun alanındaki\nkonumları değişebilir\nve böylece mücevherler\nrastgele toplanabilir veya\nyeni kümeler oluşturabilir.",
+        "your_number": "SEMBOLLERİN",
+        "luck_number": "KAZANDIRAN SEMBOLLER",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Ödül Seviyesi",
+        "prizeDescription": "Açıklama",
+        "paytableWager": "Oyun Tutarı: ",
+        "prizeValue": "Ödül Değeri",
+        "descPreTextLevel1": "16 veya daha fazlasından oluşan herhangi bir kombinasyon ",
+        "descPreTextLevel2": "13 ila 15 tanesinden oluşan herhangi bir kombinasyon ",
+        "descPreTextLevel3": "10 ila 12 tanesinden oluşan herhangi bir kombinasyon "
+    }
+}

@@ -1,0 +1,55 @@
+
+bonusTrigger.png
+size: 437,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus1
+  rotate: true
+  xy: 2, 150
+  size: 86, 89
+  orig: 108, 108
+  offset: 11, 9
+  index: -1
+bonus1_Idle
+  rotate: true
+  xy: 184, 150
+  size: 86, 89
+  orig: 108, 108
+  offset: 11, 9
+  index: -1
+bonus2
+  rotate: true
+  xy: 93, 150
+  size: 86, 89
+  orig: 108, 108
+  offset: 11, 9
+  index: -1
+bonus2_Idle
+  rotate: true
+  xy: 275, 150
+  size: 86, 89
+  orig: 108, 108
+  offset: 11, 9
+  index: -1
+glow1_small
+  rotate: false
+  xy: 287, 2
+  size: 148, 146
+  orig: 160, 160
+  offset: 5, 7
+  index: -1
+glow2
+  rotate: true
+  xy: 2, 16
+  size: 132, 137
+  orig: 160, 160
+  offset: 14, 12
+  index: -1
+glow3
+  rotate: false
+  xy: 141, 4
+  size: 144, 144
+  orig: 160, 160
+  offset: 8, 8
+  index: -1

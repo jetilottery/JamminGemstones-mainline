@@ -1,0 +1,112 @@
+﻿{
+    "version": "11-9-2020 2:01PM Jammin Gemstones Default SM",
+    "audioLoader":
+    {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Activer le son ?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "est compris entre {@minRTP} % et {@maxRTP} %",
+        "paybackTitle": "Remboursement escompté",
+        "paybackBody": "Pour ce jeu, le remboursement théorique escompté sur le long terme {RTP}."
+    },
+    "title": "Gemstone Mania",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Comment jouer ?",
+            "payTable": "Que peut-on gagner ?",
+            "price": "Mise",
+            "stake": "Mise",
+            "balance": "Balance :",
+            "prizeDivision": "Répartition des prix",
+            "prizeValue": "Valeur du prix",
+            "approximatePrize": "Prix restants approximatifs",
+            "oddsPerPlay": "Chances par tour",
+            "overAllOdds": "Il y a globalement 1 chance sur {oddNum} de gagner un prix lors de chaque tour.",
+            "availablePrices": "Points de prix disponibles : {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Comment jouer ?",
+            "payTable": "Que peut-on gagner ?",
+            "price": "Mise",
+            "stake": "Mise",
+            "balance": "Balance :"
+        },
+        "audio":
+        {
+            "on": "Activé",
+            "off": "Désactivé",
+            "sound": "Son"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Erreur : 29000\n\nUne erreur interne s'est produite.\nQUITTEZ et relancez le jeu.",
+        "lostConnection": "Connexion perdue !"
+    },
+    "Game":
+    {
+        "warpBonus_headerL": "Découvrez un {@instantWinAnim_Idle@} pour obtenir \n un gain immédiat!",
+        "warpBonus_headerP": "Découvrez un {@instantWinAnim_Idle@} pour obtenir \n un gain immédiat !",
+        "WBTriggered": "Il ne reste plus de groupes de pierres précieuses :\njeu extra « or » déclenché",
+        "ABTriggered": "Il ne reste plus de groupes de pierres précieuses :\njeu extra « argent » déclenché",
+        "NMChain": "Il ne reste plus de groupes de pierres précieuses",
+
+        "demo": "DÉMO ",
+        "button_buy": "ACHETER",
+        "button_try": "DÉMO",
+        "button_play": "JOUER",
+        "button_continue": "CONTINUER",
+        "button_move2moneyGame": "ACHETER",
+        "button_autoPlay": "TOUT RÉVÉLER",
+        "button_playAgain": "ACHETER",
+        "button_MTMPlayAgain": "DÉMO",
+        "button_payTable": "LÉGENDE",
+        "wager": "MISE",
+        "meter_wager": "MISE",
+        "balance": "BALANCE",
+        "wins": "GAIN",
+        "wins_demo": "DÉMO",
+        "message_nonWin": "DOMMAGE,\nPAS DE GAIN",
+        "message_buyWin": "BRAVO !\nVOUS GAGNEZ",
+        "message_tryWin": "UNE DÉMO DE JEU NE\nDONNE DROIT À AUCUN GAIN.",
+
+        "message_buyWin_bg": "BRAVO !\nVOUS GAGNEZ",
+        "message_tryWin_bg": "UNE DÉMO DE JEU NE\nDONNE DROIT À AUCUN GAIN.",
+        "message_anonymousTryWin": "UNE DÉMO DE JEU NE\nDONNE DROIT À AUCUN GAIN.",
+        "message_close": "OK",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "WARNING",
+        "error_title": "ERREUR",
+        "win_up_to": "GAGNEZ JUSQU'À",
+        "win_up_to_mark": "!",
+        "tutorial_title": "COMMENT JOUER ?",
+        "tutorial_00_landscape": "Collectez des groupes d’au moins 3 pierres précieuses adjacentes de même couleur, \nserties ou non dans une bague (en or ou en argent), \npour gagner le montant correspondant indiqué dans la légende. \nAccédez aux jeux extra en collectant des bagues en or ou en argent.",
+        "tutorial_01_landscape": "Collectez 4 bagues en or pour accéder au jeu extra « or ».\nDans ce jeu extra, collectez des pierres précieuses supplémentaires ou découvrez un {@IW_tutorial@}\npour obtenir un gain immédiat.",
+        "tutorial_02_landscape": "Collectez 4 bagues en argent pour accéder au jeu extra « argent ».\nCe jeu extra se joue directement dans la grille du jeu principal, \ndans laquelle les pierres précieuses peuvent être repositionnées \nou collectées aléatoirement pour offrir de nouvelles chances de gagner.",
+        "tutorial_00_portrait": "Collectez des groupes d’au moins\n3 pierres précieuses adjacentes\nde même couleur, serties ou\nnon dans une bague (en or ou en argent). \nAccédez aux jeux extra en collectant\ndes bagues en or ou en argent.",
+        "tutorial_01_portrait": "Collectez 4 bagues en or pour accéder au\njeu extra « or ». Dans ce jeu extra,\ncollectez des pierres précieuses\nsupplémentaires ou découvrez un\n{@IW_tutorial@} pour obtenir\nun gain immédiat.",
+        "tutorial_02_portrait": "Collectez 4 bagues en argent pour\naccéder au jeu extra « argent ».\nLes pierres précieuses euvent\ny être repositionnées ou collectées\naléatoirement pour de nouvelles\nchances de gagner.",
+        "your_number": "VOS SYMBOLES",
+        "luck_number": "SYMBOLES GAGNANTS",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Niveau de prix",
+        "prizeDescription": "Description",
+        "paytableWager": "Mise : ",
+        "prizeValue": "Valeur du prix",
+        "descPreTextLevel1": "Toute combinaison de 16 ou plus ",
+        "descPreTextLevel2": "Toute combinaison de 13 à 15 ",
+        "descPreTextLevel3": "Toute combinaison de 10 à 12 "
+    }
+}

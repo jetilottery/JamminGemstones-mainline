@@ -1,0 +1,112 @@
+﻿{
+    "version": "11-9-2020 2:01PM Jammin Gemstones Default SM",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nee",
+        "confirm": "Wil je geluid?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "is {@minRTP}%",
+        "RTPrange": "is van {@minRTP}% naar{@maxRTP}%",
+        "paybackTitle": "Verwachte uitbetaling",
+        "paybackBody": "Op lange termijn bedraagt de theoretisch verwachte uitbetaling van dit spel {RTP}."
+    },
+    "title": "Gemstone Mania",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Hoe spelen?",
+            "payTable": "Wat kan je winnen?",
+            "price": "Inzet",
+            "stake": "Inzet",
+            "balance": "Balans",
+            "prizeDivision": "Prijsverdeling",
+            "prizeValue": "Prijswaarde",
+            "approximatePrize": "Resterende prijzen (ongeveer)",
+            "oddsPerPlay": "Odds per spel",
+            "overAllOdds": "Er is een algemene winkans van 1 op {oddNum} bij elk spel.",
+            "availablePrices": "Beschikbare prijzenpunten: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Hoe spelen?",
+            "payTable": "Wat kan je winnen?",
+            "price": "Inzet",
+            "stake": "Inzet",
+            "balance": "Balans"
+        },
+        "audio":
+        {
+            "on": "Aan",
+            "off": "Uit",
+            "sound": "Geluid"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fout: 29000\n\nEr is een interne fout opgetreden.\nVERLAAT het spel en start het opnieuw op.",
+        "lostConnection": "Verbinding verbroken!"
+    },
+    "Game":
+    {
+        "warpBonus_headerL": "Ontdek een {@instantWinAnim_Idle@} en verdien \n onmiddellijk een winstbedrag!",
+        "warpBonus_headerP": "Ontdek een {@instantWinAnim_Idle@} en verdien \n onmiddellijk een winstbedrag!",
+        "WBTriggered": "Er blijven geen groepen van edelstenen meer over:\nExtra spel “Goud” geactiveerd",
+        "ABTriggered": "Er blijven geen groepen van edelstenen meer over:\nExtra spel “Zilver” geactiveerd",
+        "NMChain": "Er blijven geen groepen van edelstenen meer over",
+
+        "demo": "DEMO ",
+        "button_buy": "KOPEN",
+        "button_try": "DEMO",
+        "button_play": "SPELEN",
+        "button_continue": "DOORGAAN",
+        "button_move2moneyGame": "KOPEN",
+        "button_autoPlay": "ALLES TONEN",
+        "button_playAgain": "KOPEN",
+        "button_MTMPlayAgain": "DEMO",
+        "button_payTable": "LEGENDE",
+        "wager": "INZET",
+        "meter_wager": "INZET",
+        "balance": "BALANS",
+        "wins": "WINST",
+        "wins_demo": "DEMO",
+        "message_nonWin": "HELAAS,\nGEEN WINST",
+        "message_buyWin": "PROFICIAT!\nJE WINT",
+        "message_tryWin": "EEN DEMOSPEL GEEFT\nGEEN RECHT OP ENIGE WINST.",
+
+        "message_buyWin_bg": "PROFICIAT!\nJE WINT",
+        "message_tryWin_bg": "EEN DEMOSPEL GEEFT\nGEEN RECHT OP ENIGE WINST.",
+        "message_anonymousTryWin": "EEN DEMOSPEL GEEFT\nGEEN RECHT OP ENIGE WINST.",
+        "message_close": "OK",
+        "button_exit": "AFSLUITEN",
+        "session_timeout_warning_exit_button": "AFSLUITEN",
+        "error_button_exit": "AFSLUITEN",
+        "warning_button_continue": "DOORGAAN",
+        "warning_button_exitGame": "AFSLUITEN",
+        "warning_title": "WARNING",
+        "error_title": "FOUT",
+        "win_up_to": "WIN TOT",
+        "win_up_to_mark": "!",
+        "tutorial_title": "HOE SPELEN?",
+        "tutorial_00_landscape": "Verzamel groepen van minstens 3 aangrenzende edelstenen van dezelfde kleur,\nal dan niet ingezet in een gouden of zilveren ring, en win het bijbehorende\nbedrag dat in de legende vermeld staat. Verzamel gouden of zilveren ringen,\nen neem deel aan de Extra spelen.",
+        "tutorial_01_landscape": "Verzamel 4 gouden ringen en neem deel aan het Extra spel “Goud”.\nVerzamel in dit Extra spel bijkomende edelstenen, of ontdek er een {@IW_tutorial@}\nen verdien onmiddellijk een winstbedrag.",
+        "tutorial_02_landscape": "Verzamel 4 zilveren ringen en neem deel aan het Extra spel “Zilver”.\nDit Extra spel speel je rechtstreeks in het rooster van het hoofdspel.\nIn dit rooster kunnen de edelstenen worden geherpositioneerd \nof op een willekeurige manier worden verzameld om nieuwe winstkansen te creëren.",
+        "tutorial_00_portrait": "Verzamel groepen van minstens\n3 aangrenzende edelstenen\nvan dezelfde kleur, al dan niet ingezet\nin een gouden of zilveren ring.\nVerzamel gouden of zilveren ringen,\nen neem deel aan de Extra spel.",
+        "tutorial_01_portrait": "Verzamel 4 gouden ringen en neem deel\naan het Extra spel “Goud”.\nVerzamel in dit Extra spel bijkomende\nedelstenen, of ontdek er een\n{@IW_tutorial@} en verdien onmiddellijk\neen winst.",
+        "tutorial_02_portrait": "Verzamel 4 zilveren ringen en neem\ndeel aan het Extra spel “Zilver”.\nDe edelstenen kunnen er worden\ngeherpositioneerd of op een\nwillekeurige manier verzameld\nom nieuwe winstkansen te creëren.",
+        "your_number": "UW SYMBOLEN",
+        "luck_number": "WINNENDE SYMBOLEN",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prijsniveau",
+        "prizeDescription": "Beschrijving",
+        "paytableWager": "Inzet: ",
+        "prizeValue": "Prijswaarde",
+        "descPreTextLevel1": "Elke combinatie van 16 of meer ",
+        "descPreTextLevel2": "Elke combinatie van 13 tot 15 ",
+        "descPreTextLevel3": "Elke combinatie van 10 tot 12 "
+    }
+}

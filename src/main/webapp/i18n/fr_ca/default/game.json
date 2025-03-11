@@ -1,0 +1,110 @@
+{
+    "version": "11-9-2020 2:01PM Jammin Gemstones Default SM",
+    "audioLoader":
+    {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Activer le son?"
+    },
+    "Paytable": {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "varie de {@minRTP} % à {@maxRTP} %",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme {RTP}."
+    },
+    "title": "Jammin' Gemstones",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Aide",
+            "payTable": "Table de paiement",
+            "price": "Coût",
+            "stake": "Mise",
+            "balance": "Solde",
+            "prizeDivision": "Répartition des lots",
+			"prizeValue": "Valeur du lot",
+			"approximatePrize": "Nombre approximatif de lots restants",
+			"oddsPerPlay": "Chances par partie",
+            "overAllOdds": "Globalement, vous avez 1 chance sur {oddNum} de gagner un lot à chaque partie.",
+            "availablePrices": "Coût des points disponibles : {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Aide",
+            "payTable": "Table de paiement",
+            "price": "Coût",
+            "stake": "Mise",
+            "balance": "Solde"
+        },
+        "audio":
+        {
+            "on": "Activé",
+            "off": "Désactivé",
+            "sound": "Son"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Erreur : 29000\n\nUne erreur interne est survenue.\nQUITTEZ le jeu et relancez-le.",
+        "lostConnection": "Connexion perdue."
+    },
+    "Game":
+    {
+        "warpBonus_headerL": "Amassez un symbole {@instantWinAnim_Idle@} pour gagner \n un lot instantané!",
+        "warpBonus_headerP": "Amassez un symbole {@instantWinAnim_Idle@} pour gagner \n un lot instantané!",
+        "WBTriggered": "Il ne reste aucun groupement. Le boni Gem Rush est déclenché",
+        "ABTriggered": "Il ne reste aucun groupement. Le boni Shuffle est déclenché",
+        "NMChain": "Il ne reste aucun groupement",
+        "demo": "ESSAYER ",
+        "button_buy": "ACHETER",
+        "button_try": "ESSAYER",
+        "button_play": "JOUER",
+        "button_continue": "CONTINUER",
+        "button_move2moneyGame": "MODE ARGENT RÉEL",
+        "button_autoPlay": "TOUT AFFICHER",
+        "button_playAgain": "JOUER DE NOUVEAU",
+        "button_MTMPlayAgain": "ESSAYER DE NOUVEAU",
+        "button_payTable": "TABLE DE PAIEMENT",
+        "wager": "COÛT DU BILLET",
+        "meter_wager": "COÛT DU BILLET",
+        "balance": "SOLDE",
+        "wins": "GAIN",
+        "wins_demo": "GAIN FICTIF",
+        "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+        "message_buyWin": "GAIN TOTAL",
+        "message_tryWin": "GAIN TOTAL FICTIF",
+
+        "message_buyWin_bg": "FÉLICITATIONS!\nVOUS AVEZ GAGNÉ",
+        "message_tryWin_bg": "MERCI D’AVOIR JOUÉ!\nVOUS AURIEZ PU GAGNER",
+        "message_anonymousTryWin": "MERCI D’AVOIR JOUÉ!\nVOUS AURIEZ PU GAGNER",
+        "message_close": "OK",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "AVERTISSEMENT",
+        "error_title": "ERREUR",
+        "win_up_to": "GAGNEZ JUSQU’À",
+        "win_up_to_mark": "!",
+        "tutorial_title": "COMMENT JOUER",
+        "tutorial_00_landscape": "Obtenez des groupements de trois gemmes ou anneaux adjacents \ndont le centre est de la même couleur \nsur la grille. De nouvelles gemmes tombent d’en haut. Amassez des anneaux \nd'or et d'argent pour déclencher un jeu boni.",
+        "tutorial_01_landscape": "Amassez quatre anneaux d'or pour déclencher le jeu boni Gem Rush.\nAmassez des gemmes supplémentaires ou obtenez un symbole {@IW_tutorial@}\npour gagner un lot instantané.",
+        "tutorial_02_landscape": "Amassez quatre anneaux d'argent pour déclencher le jeu boni Shuffle.\nLes gemmes peuvent changer de position sur la grille, où elles\npeuvent être amassées aléatoirement ou créer de nouveaux groupements.",
+        "tutorial_00_portrait": "Obtenez des groupements de trois gemmes\nou anneaux adjacents \ndont la gemme du centre est de la même\ncouleur.\nDe nouvelles gemmes tombent d’en haut.\nAmassez des anneaux d'or\net d'argent pour\ndéclencher un jeu boni.",
+        "tutorial_01_portrait": "Amassez quatre anneaux d'or pour\ndéclencher le jeu boni Gem Rush.\nAmassez des gemmes supplémentaires\nou obtenez un symbole {@IW_tutorial@} pour\ngagner un lot instantané.",
+        "tutorial_02_portrait": "Amassez quatre anneaux d'argent pour\ndéclencher le jeu boni Shuffle.\nLes gemmes peuvent changer\nde position sur la grille,\noù elles peuvent être amassées\naléatoirement ou créer de nouveaux groupements.",
+        "your_number": "VOS SYMBOLES",
+        "luck_number": "SYMBOLES GAGNANTS",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Niveau du lot",
+        "prizeDescription":"Description",
+        "paytableWager":"Coût du billet : ",
+        "prizeValue": "Valeur du lot",
+        "descPreTextLevel1":"Toute combinaison de 16 ou plus ",
+        "descPreTextLevel2":"Toute combinaison de 13 à 15 ",
+        "descPreTextLevel3":"Toute combinaison de 10 à 12 "
+    }
+}

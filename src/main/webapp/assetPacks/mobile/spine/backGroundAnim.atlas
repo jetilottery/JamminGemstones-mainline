@@ -1,0 +1,60 @@
+
+backGroundAnim.png
+size: 1444,1367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baseBG_Landscape
+  rotate: false
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+plaqueSparkle
+  rotate: true
+  xy: 2, 1304
+  size: 61, 63
+  orig: 79, 79
+  offset: 11, 9
+  index: -1
+shine
+  rotate: true
+  xy: 67, 814
+  size: 551, 553
+  orig: 824, 724
+  offset: 137, 87
+  index: -1
+
+backGroundAnim2.png
+size: 1626,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baseBG_Portrait
+  rotate: false
+  xy: 2, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+bonusBG_Landscape
+  rotate: true
+  xy: 814, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+
+backGroundAnim3.png
+size: 814,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonusBG_Portrait
+  rotate: false
+  xy: 2, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
